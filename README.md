@@ -1,27 +1,26 @@
-  ## Table of Contents
+# Hayden Huntley
 
-    - Project Title
-    - Who am I?
-    - What are my Favorite Hobbies?
+Welcome to my GitHub profile. I am a student at the University of Iowa studying Business Analytics and Information Systems, Finance, and Risk Management and Insurance. My anticipated graduation is May 2026.
 
+## About Me
 
+I am passionate about data, technology, and solving business problems through analytics. My interests include data analysis, web development, and insurance technology.
 
-  ## Project Title
+## Skills
 
-  **Hayden's Hello World**
+- Data Analysis: Python (Pandas, NumPy, Matplotlib), SQL, Excel
+- Machine Learning: Scikit-learn, Statsmodels
+- Web Development: HTML, CSS, Bootstrap, Azure
+- Version Control: Git and GitHub
+- Business Tools: Microsoft Office Suite
 
-  ## Who am I?
+## Education
 
-    Hayden Huntley
-    20 Years Old
-    Student at The University of Iowa
+**University of Iowa**  
+Business Analytics and Information Systems, Finance, and Risk Management and Insurance  
+Anticipated Graduation: May 2026
 
-  ## What are my Favorite Hobbies?
+## Contact
 
-  1. Playing sports
-  2. Being on a boat
-  3. Listening to music
-
-  ## LinkedIn
-
-  (https://www.linkedin.com/in/hayden-huntley/)
+- LinkedIn: [https://www.linkedin.com/in/hayden-huntley](https://www.linkedin.com/in/hayden-huntley)
+- Email: hayden-huntley@uiowa.edu
